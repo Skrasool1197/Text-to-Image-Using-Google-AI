@@ -5,3 +5,7 @@ A Streamlit app that lets users upload an image and generates a short, descripti
 - Upload images in JPG, JPEG, or PNG formats.
 - Automatically generates creative and concise descriptions.
 - Clean and responsive user interface.
+
+# API KEY
+
+https://aistudio.google.com/app/apikey
