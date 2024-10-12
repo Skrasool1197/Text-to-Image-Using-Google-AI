@@ -7,5 +7,5 @@ A Streamlit app that lets users upload an image and generates a short, descripti
 - Clean and responsive user interface.
 
 # API KEY
+- [Create your api key here.](https://aistudio.google.com/app/apikey)
 
-https://aistudio.google.com/app/apikey
